@@ -1,6 +1,0 @@
-ollama
-faster-whisper
-sounddevice
-numpy
-pyttsx3
-pywin32
